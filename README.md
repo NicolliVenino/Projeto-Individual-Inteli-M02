@@ -1,1 +1,0 @@
-# Projeto-Individual-Inteli-M02
