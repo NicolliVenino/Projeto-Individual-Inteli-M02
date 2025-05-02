@@ -31,9 +31,12 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
-### 2.1. Personas (Semana 01 - opcional)
+### 2.1. Persona
+<p align = "center">Figura 1: Persona</p>
 
-*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
+![Persona](https://github.com/user-attachments/assets/214d0ac2-f0ad-4755-9e8c-1e0c6b9d099a)
+
+<p align = "center">Fonte: material produzido pela autora.</p> <br>
 
 ### 2.2. User Stories (Semana 01 - opcional)
 
