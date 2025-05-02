@@ -40,7 +40,22 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ### 2.2. User Stories (Semana 01 - opcional)
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+- <strong>US01:</strong> Eu, como usuário, gostaria de visualizar minhas tarefas diárias, semanais e mensais em uma única plataforma digital para evitar gasto de tempo e de materiais físicos, assim como amenizar problemas de desorganização e perda de informações. <div>
+  <strong>I:</strong> a ação que diz respeito ao usuário inserir suas tarefas é a mais fundamental funcionalidade do programa, de modo que é implementada sem depedência de derivações de outras user stories.<div>
+  <strong>N:</strong> a user storie supracitada é negociável, ou seja, o desejo de inserir tarefas diárias, semanais e mensais pode ser adaptada, se necessário, por intermédio de conversas com o usuário.<div> 
+  <strong>V:</strong> a user storie é valiosa, pois descreve, notoriamente, o impacto na vida do usuário, destacando como será importante para suprir suas necessidades e amenizar suas dores.<div>
+  <strong>E:</strong> é possível elaborar estimativas apartir da user storie, pois o desejo do usuário foi bem específico.<div>
+  <strong>S:</strong> no que tange ao tamanho da funcionalidade descrita na user storie, pode-se afirmar que é possível executá-la dentro do prazo estabelecido e com os recursos dispostos. <div>
+  <strong>T:</strong> a user storie expressa clareza o suficiente para que seja possível validá-la por meio de testes.<div>
+
+- <strong>US02:</strong> Eu, como usuário, gostaria de usar técnicas fundamentadas de gerenciamento de tarefas - como Kanban e Mapa mentais - para tornar meu processo de administração de atividades mais eficiente.
+
+- <strong>US03:</strong> Eu, como usuário, gostaria de ser lembrado de visualizar e cumprir minhas tarefas diárias para permanecer motivado ao longo do dia.
+
+- <strong>US04:</strong> Eu, como usuário, gostaria de personalizar minhas visualizações e as funcionalidades da plataforma para tornar minha organização coerente com as minhas preferências e facilidades individuais.
+
+- <strong>US05:</strong> Eu, como usuário, gostaria de monitorar o tempo que gasto com cada tarefa, assim como organizar esses tempos em pastas de áreas personalizadas, para conseguir gerenciar minhas prioridades com mais precisão.  
+
 
 ---
 
