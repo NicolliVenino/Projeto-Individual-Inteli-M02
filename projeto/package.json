@@ -16,8 +16,5 @@
     "url": "https://github.com/NicolliVenino/Projeto-Individual-Inteli-M02/issues"
   },
   "homepage": "https://github.com/NicolliVenino/Projeto-Individual-Inteli-M02#readme",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "description": ""
 }
