@@ -87,7 +87,66 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 <p align = "center">Fonte: material produzido pela autora com o CANVAS (2025).</p> <br>
 
-### 3.1.3 BD e Models (Semana 5)
+#### 3.1.3. Modelagem física com o Schema do banco de dados
+
+```
+CREATE TABLE usuários (
+  id SERIAL PRIMARY KEY,
+  nome TEXT NOT NULL,
+  usuário TEXT NOT NULL,
+  email TEXT NOT NULL,
+  senha TEXT NOT NULL,
+  telefone INT,
+  foto TEXT NOT NULL
+);
+
+CREATE TABLE áreas (
+  id SERIAL PRIMARY KEY,
+  nome TEXT NOT NULL,
+  descrição TEXT NOT NULL,
+  id_usuário INT REFERENCES usuários(id) ON DELETE CASCADE
+);
+
+CREATE TABLE objetivos (
+  id SERIAL PRIMARY KEY,
+  nome TEXT NOT NULL,
+  descrição TEXT NOT NULL,
+  id_usuário INT REFERENCES usuários(id) ON DELETE CASCADE
+);
+
+CREATE TABLE tarefas (
+  id SERIAL PRIMARY KEY,
+  nome TEXT NOT NULL,
+  descrição TEXT NOT NULL,
+  tamanho TEXT NOT NULL,
+  prioridade TEXT NOT NULL,
+  status TEXT NOT NULL,
+  data_inicio DATE,
+  data_conclusao DATE,
+  id_área INT REFERENCES áreas(id) ON DELETE CASCADE,
+  id_objetivo INT REFERENCES objetivos(id) ON DELETE CASCADE
+);
+
+CREATE TABLE tarefas_objetivos (
+  id SERIAL PRIMARY KEY,
+  id_tarefa INT REFERENCES tarefas(id) ON DELETE CASCADE,
+  id_objetivo INT REFERENCES objetivos(id) ON DELETE CASCADE
+);
+
+CREATE TABLE tarefas_áreas (
+  id SERIAL PRIMARY KEY,
+  id_tarefa INT REFERENCES tarefas(id) ON DELETE CASCADE,
+  id_área INT REFERENCES áreas(id) ON DELETE CASCADE
+);
+
+CREATE TABLE objetivos_áreas (
+  id SERIAL PRIMARY KEY,
+  id_área INT REFERENCES áreas(id) ON DELETE CASCADE,
+  id_objetivo INT REFERENCES objetivos(id) ON DELETE CASCADE
+);
+```
+
+#### 3.1.4 BD e Models (Semana 5)
 *Descreva aqui os Models implementados no sistema web*
 
 ### 3.2. Arquitetura (Semana 5)
