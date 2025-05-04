@@ -1,7 +1,5 @@
 # Web Application Document - Projeto Individual - Módulo 2 - Inteli
 
-**_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final._**
-
 ## Nome do Projeto
 
 #### Autora: [Nicolli Venino Santana](https://www.linkedin.com/in/nicolli-venino-santana-b84341254/)
@@ -16,7 +14,7 @@
 
 <br>
 
-## <a name="c1"></a>1. Introdução (Semana 01)
+## <a name="c1"></a>1. Introdução 
 
 O (nome) é uma plataforma WEB de gerenciamento de tarefas para organização e produtividade dos usuários. Nesse sentido, o objetivo é concentrar as mais embasadas técnicas de ordenamento e de administração de atividades em um único sistema WEB tecnológico, personalizado e gratuito. 
 
@@ -36,7 +34,7 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
-### 2.1. Personas (Semana 01 - opcional)
+### 2.1. Personas 
 
 <p align = "center">Figura 1: Persona</p>
 
@@ -44,7 +42,7 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 <p align = "center">Fonte: material produzido pela autora com o CANVAS (2025).</p> <br>
 
-### 2.2. User Stories (Semana 01 - opcional)
+### 2.2. User Stories 
 
 - <strong>US01:</strong> Eu, como usuário, gostaria de visualizar minhas tarefas diárias, semanais e mensais em uma única plataforma digital para evitar gasto de tempo e de materiais físicos, assim como amenizar problemas de desorganização e perda de informações. <div>
 
@@ -71,23 +69,25 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
-### 3.1. Modelagem do banco de dados  (Semana 3)
+### 3.1. Modelagem do banco de dados 
 
-<h2 align = "center">Figura 2: Modelagem Conceitual</h2>
+#### 3.1.1. Modelagem Conceitual do banco de dados
+
+<p align = "center">Figura 2: Modelagem Conceitual</p>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/41af7b94-f344-4228-8d12-22509f936f7e" alt="Modelagem Conceitual"> </p>
 
 <p align = "center">Fonte: material produzido pela autora com o DRAW.io (2025).</p> <br>
 
---- 
+#### 3.1.2. Modelagem Relacional do banco de dados
 
-<h2 align = "center">Figura 3: Modelagem Relacional</h2>
+<p align = "center">Figura 3: Modelagem Relacional</p>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/c9ebc789-acc2-4974-95be-01fb5b2b10fd" alt="Modelagem Conceitual"> </p>
 
 <p align = "center">Fonte: material produzido pela autora com o CANVAS (2025).</p> <br>
 
-### 3.1.1 BD e Models (Semana 5)
+### 3.1.3 BD e Models (Semana 5)
 *Descreva aqui os Models implementados no sistema web*
 
 ### 3.2. Arquitetura (Semana 5)
