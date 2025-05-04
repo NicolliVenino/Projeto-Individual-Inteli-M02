@@ -47,11 +47,17 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 ### 2.2. User Stories (Semana 01 - opcional)
 
 - <strong>US01:</strong> Eu, como usuário, gostaria de visualizar minhas tarefas diárias, semanais e mensais em uma única plataforma digital para evitar gasto de tempo e de materiais físicos, assim como amenizar problemas de desorganização e perda de informações. <div>
+
   <strong>I:</strong> a ação que diz respeito ao usuário inserir suas tarefas é a mais fundamental funcionalidade do programa, de modo que é implementada sem depedência de derivações de outras user stories.<div>
-  <strong>N:</strong> a user storie supracitada é negociável, ou seja, o desejo de inserir tarefas diárias, semanais e mensais pode ser adaptada, se necessário, por intermédio de conversas com o usuário.<div> 
+  
+  <strong>N:</strong> a user storie supracitada é negociável, ou seja, o desejo de inserir tarefas diárias, semanais e mensais pode ser adaptada, se necessário, por intermédio de conversas com o usuário.<div>
+  
   <strong>V:</strong> a user storie é valiosa, pois descreve, notoriamente, o impacto na vida do usuário, destacando como será importante para suprir suas necessidades e amenizar suas dores.<div>
+  
   <strong>E:</strong> é possível elaborar estimativas apartir da user storie, pois o desejo do usuário foi bem específico.<div>
+  
   <strong>S:</strong> no que tange ao tamanho da funcionalidade descrita na user storie, pode-se afirmar que é possível executá-la dentro do prazo estabelecido e com os recursos dispostos. <div>
+  
   <strong>T:</strong> a user storie expressa clareza o suficiente para que seja possível validá-la por meio de testes.<div>
 
 - <strong>US02:</strong> Eu, como usuário, gostaria de usar técnicas fundamentadas de gerenciamento de tarefas - como Kanban e Mapa mentais - para tornar meu processo de administração de atividades mais eficiente.
@@ -67,9 +73,19 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ### 3.1. Modelagem do banco de dados  (Semana 3)
 
-*Posicione aqui os diagramas de modelos relacionais do seu banco de dados, apresentando todos os esquemas de tabelas e suas relações. Utilize texto para complementar suas explicações, se necessário.*
+<h2 align = "center">Figura 2: Modelagem Conceitual</h2>
 
-*Posicione também o modelo físico com o Schema do BD (arquivo .sql)*
+<p align="center"> <img src="https://github.com/user-attachments/assets/41af7b94-f344-4228-8d12-22509f936f7e" alt="Modelagem Conceitual"> </p>
+
+<p align = "center">Fonte: material produzido pela autora.</p> <br>
+
+--- 
+
+<h2 align = "center">Figura 3: Modelagem Relacional</h2>
+
+![Modelagem Relacional](https://github.com/user-attachments/assets/f4050240-f144-40db-8907-62d115f5348a)
+
+<p align = "center">Fonte: material produzido pela autora.</p> <br>
 
 ### 3.1.1 BD e Models (Semana 5)
 *Descreva aqui os Models implementados no sistema web*
