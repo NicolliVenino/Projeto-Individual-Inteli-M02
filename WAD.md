@@ -42,7 +42,7 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 ![Persona](https://github.com/user-attachments/assets/214d0ac2-f0ad-4755-9e8c-1e0c6b9d099a)
 
-<p align = "center">Fonte: material produzido pela autora.</p> <br>
+<p align = "center">Fonte: material produzido pela autora com o CANVAS (2025).</p> <br>
 
 ### 2.2. User Stories (Semana 01 - opcional)
 
@@ -77,15 +77,15 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/41af7b94-f344-4228-8d12-22509f936f7e" alt="Modelagem Conceitual"> </p>
 
-<p align = "center">Fonte: material produzido pela autora.</p> <br>
+<p align = "center">Fonte: material produzido pela autora com o DRAW.io (2025).</p> <br>
 
 --- 
 
 <h2 align = "center">Figura 3: Modelagem Relacional</h2>
 
-![Modelagem Relacional](https://github.com/user-attachments/assets/f4050240-f144-40db-8907-62d115f5348a)
+<p align="center"> <img src="https://github.com/user-attachments/assets/c9ebc789-acc2-4974-95be-01fb5b2b10fd" alt="Modelagem Conceitual"> </p>
 
-<p align = "center">Fonte: material produzido pela autora.</p> <br>
+<p align = "center">Fonte: material produzido pela autora com o CANVAS (2025).</p> <br>
 
 ### 3.1.1 BD e Models (Semana 5)
 *Descreva aqui os Models implementados no sistema web*
