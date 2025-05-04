@@ -4,7 +4,7 @@
 
 ## Nome do Projeto
 
-#### Autor do projeto
+#### Autora: <a href="www.linkedin.com/in/nicolli-venino-santana-b84341254" target="_blank"><p>Nicolli Venino Santana</p></a> 
 
 ## Sumário
 
