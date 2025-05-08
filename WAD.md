@@ -89,7 +89,7 @@ Diante disso, é notório que a aplicação caracteriza-se como uma alternativa 
 
 #### 3.1.3. Modelagem física com o Schema do banco de dados
 
-```
+```sql
 CREATE TABLE usuários (
   id SERIAL PRIMARY KEY,
   nome TEXT NOT NULL,
